@@ -2,7 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;700&display=swap');
 
 body{
-    background-color:hsl(30, 54%, 90%) ;
+    background-color:hsl(30, 54%, 90%);
+    width: 90%;
+    margin: auto;
+
 }
 
 .all {
